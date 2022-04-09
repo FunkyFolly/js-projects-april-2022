@@ -1,1 +1,1 @@
-console.log('testing');
+captureStream = await navigator.mediaDevices.getDisplayMedia();
